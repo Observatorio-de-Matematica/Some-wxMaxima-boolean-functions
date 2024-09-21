@@ -131,8 +131,6 @@ bool_make_truth_table(formula) := block([eq_list, func, flist, M],
 /* [wxMaxima: input   end   ] */
 
 
-/* [wxMaxima: page break    ] */
-
 
 /* Old versions of Maxima abort on loading files that end in a comment. */
 "Created with wxMaxima 22.04.0"$
